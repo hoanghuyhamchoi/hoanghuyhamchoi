@@ -41,14 +41,12 @@ Here are some ideas to get you started:
     <tr>
       <td>
         <a href="https://activity-graph.herokuapp.com/graph?username=hoanghuyhamchoi">
-        <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhhoanggxz&theme=dracula"/>
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoanghuyhamchoi&theme=dracula"/>
         </a>
       </td>
     </tr>
   </tbody>
-  <tbody>
-    <tr>
-      <td>
+</table>
 
 <table>
   <tbody>
