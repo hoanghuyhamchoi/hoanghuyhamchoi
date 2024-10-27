@@ -41,12 +41,7 @@ Here are some ideas to get you started:
     <tr>
       <td>
         <a href="https://activity-graph.herokuapp.com/graph?username=hoanghuyhamchoi">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=hoanghuyhamchoi&theme=dracula">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+        
 
 <table>
   <tbody>
