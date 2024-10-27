@@ -38,35 +38,3 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
-
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoanghuyhamchoi">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoanghuyhamchoi&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoanghuyhamchoi&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoanghuyhamchoi&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoanghuyhamchoi">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoanghuyhamchoi&theme=dracula"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoanghuyhamchoi">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoanghuyhamchoi&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
